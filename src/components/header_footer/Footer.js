@@ -7,7 +7,7 @@ const Footer = () => {
             <Fade delay={500}>
                 <div className="font_righteous footer_logo_venue">The Venue</div>
                 <div className="footer_copyright">
-                    Nagireddy 2020.All rights reserved.
+    <p> &copy;{new Date().getFullYear()} | Nagireddy | All rights reserved |Terms of services |Privacy.</p>
                 </div>
             </Fade>
         </footer>
