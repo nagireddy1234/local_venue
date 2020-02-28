@@ -48,7 +48,7 @@ const VunueNfo = () => {
                                         Event Location
                                     </div>
                                     <div className="vn_desc">
-                                        345 Speer Street Oakland, CA 9835
+                                       Sauna-1, Tallinn-10140,Estonia
                                     </div>
                                 </div>
                             </div>
